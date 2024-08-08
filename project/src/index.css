@@ -1,0 +1,52 @@
+
+ ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+ ul li {
+  display: inline;
+  margin: 0 1rem;
+}
+
+ ul li a {
+  color: grey;
+  text-decoration: none;
+}
+
+a:hover {
+  color: skyblue;
+}
+li{
+  font-size: 1em;
+  line-height: 1.1;
+  color: grey;
+}
+
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  min-width: 3200px;
+  min-height: -100vh;
+  background-color: #333;
+}
+
+h2 {
+  font-size: 2em;
+  line-height: 1.1;
+  color:skyblue;
+}
+h3{
+  font-size:1em;
+  line-height:1.1;
+  color:skyblue;
+}
+p{
+  font-size: 1em;
+  line-height: 1.1;
+  color: grey;
+}
+
+
+  
